@@ -43,7 +43,7 @@ lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
 louis==3.8.0
 macaroonbakery==1.2.1
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 marshmallow==3.5.1
 marshmallow-sqlalchemy==0.22.3
